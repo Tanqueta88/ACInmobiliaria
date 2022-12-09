@@ -1,0 +1,36 @@
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.csproj.AssemblyReference.cache
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.GeneratedMSBuildEditorConfig.editorconfig
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.AssemblyInfoInputs.cache
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.AssemblyInfo.cs
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.csproj.CoreCompileInputs.cache
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.deps.json
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.dll
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.pdb
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.dll
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/refint/ModelosPP.dll
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.pdb
+/home/qap03/Escritorio/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ref/ModelosPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.deps.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.pdb
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.csproj.AssemblyReference.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.GeneratedMSBuildEditorConfig.editorconfig
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.AssemblyInfoInputs.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.AssemblyInfo.cs
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.csproj.CoreCompileInputs.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/refint/ModelosPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.pdb
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ref/ModelosPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.deps.json
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/bin/Debug/net6.0/ModelosPP.pdb
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.csproj.AssemblyReference.cache
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.AssemblyInfoInputs.cache
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.AssemblyInfo.cs
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.csproj.CoreCompileInputs.cache
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/refint/ModelosPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ModelosPP.pdb
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ModelosPP/obj/Debug/net6.0/ref/ModelosPP.dll

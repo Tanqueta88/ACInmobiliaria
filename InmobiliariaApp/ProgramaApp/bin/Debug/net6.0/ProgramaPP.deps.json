@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProgramaPP/1.0.0": {
+        "dependencies": {
+          "ModelosPP": "1.0.0"
+        },
+        "runtime": {
+          "ProgramaPP.dll": {}
+        }
+      },
+      "ModelosPP/1.0.0": {
+        "runtime": {
+          "ModelosPP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramaPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelosPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

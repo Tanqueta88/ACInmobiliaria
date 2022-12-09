@@ -1,0 +1,54 @@
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.AssemblyReference.cache
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.GeneratedMSBuildEditorConfig.editorconfig
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.AssemblyInfoInputs.cache
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.AssemblyInfo.cs
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.CoreCompileInputs.cache
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.deps.json
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.runtimeconfig.json
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.dll
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.pdb
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ModelosPP.dll
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ModelosPP.pdb
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.CopyComplete
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.dll
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/refint/ProgramaPP.dll
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.pdb
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.genruntimeconfig.cache
+/home/qap03/Escritorio/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ref/ProgramaPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.deps.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.runtimeconfig.json
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.pdb
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ModelosPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ModelosPP.pdb
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.AssemblyReference.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.GeneratedMSBuildEditorConfig.editorconfig
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.AssemblyInfoInputs.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.AssemblyInfo.cs
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.CoreCompileInputs.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.CopyComplete
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/refint/ProgramaPP.dll
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.pdb
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.genruntimeconfig.cache
+/home/qap03/Escritorio/CLASES_2DO CUATRIMESTRE/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ref/ProgramaPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.deps.json
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.runtimeconfig.json
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ProgramaPP.pdb
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ModelosPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/bin/Debug/net6.0/ModelosPP.pdb
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.AssemblyReference.cache
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.AssemblyInfoInputs.cache
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.AssemblyInfo.cs
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.CoreCompileInputs.cache
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.csproj.CopyComplete
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/refint/ProgramaPP.dll
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.pdb
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ProgramaPP.genruntimeconfig.cache
+/home/jorge_linux/C_2C/ISTEA_CURSOS/ OBJETOS/InmobiliariaPP/ProgramaPP/obj/Debug/net6.0/ref/ProgramaPP.dll

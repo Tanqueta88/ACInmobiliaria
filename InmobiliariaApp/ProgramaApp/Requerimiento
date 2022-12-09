@@ -1,0 +1,11 @@
+Se solicita:
+
+// Diseñar una aplicación que administre las propiedades de una inmobiliaria. 
+
+// La clase INMOBILIARIA tendrá encapsulada una lista de inmuebles que deben ser agregados mediante el método Agregar. El método imprimir debe mostrar todos los inmuebles, especificando el tipo de inmueble, sus características y su valor.
+
+// La clase INMUEBLE contiene los atributos metros y barrio (que tiene dos valores posibles, urbano o suburbano). El atributo cotización de solo lectura que pueden utilizar las clases derivadas que devuelve la cantidad x 2000 si es urbano y por 3000 si no lo es.
+
+// La clase CASA contiene dos atributos booleanos que indica si tiene pileta y cochera. El valor de la casa si tiene pileta se le sumara 200 a la cotización y si tiene cochera se sumarán 50 a la cotización.
+
+// La clase LOCALCOMERCIAL que además contiene un booleano que indica si es sin impuestos, en caso de ser verdadero el valor tiene un descuento del 10%.
